@@ -15,5 +15,10 @@ p {
   font-size: 14px;
   font-family: Arial
 }
-
-
+div{
+  background-color: darkcyan;
+  text-align: right;
+}
+.unit-details { width:100%; border-collapse:collapse; margin:8px 0 16px; font-family:Arial,sans-serif; }
+.unit-details td { padding:8px; border-bottom:1px solid #ddd; text-align:left; }
+.unit-details tr:nth-child(odd) { background:#f2f2f2; }
